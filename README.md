@@ -11,3 +11,13 @@ Technologies Used:
 HTML5
 CSS3
 JavaScript
+
+
+Sample Output:
+![image](https://github.com/user-attachments/assets/67ed4fdd-0fa4-471f-b03f-afa0bea931d1)
+![image](https://github.com/user-attachments/assets/2844522e-efce-4cc3-b8cf-720f52a14a55)
+![image](https://github.com/user-attachments/assets/4bc072d7-5d8b-4144-a857-332394d25a02)
+![image](https://github.com/user-attachments/assets/2fa25262-fd4e-4ba6-bf34-de8b15527bdd)
+
+
+
